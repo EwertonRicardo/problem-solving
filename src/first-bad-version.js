@@ -23,6 +23,10 @@
  * @param {function} isBadVersion()
  * @return {function}
  */
+
+/**
+ * Time complexity: O(N)
+ */
  var solution = function(isBadVersion) {
     /**
      * @param {integer} n Total versions
